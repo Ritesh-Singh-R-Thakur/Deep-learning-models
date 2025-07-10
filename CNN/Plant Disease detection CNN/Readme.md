@@ -22,6 +22,9 @@ This web app uses a Convolutional Neural Network (CNN) to detect diseases in **t
 ## Data set link  
 https://www.kaggle.com/datasets/arjuntejaswi/plant-village
 
+## Hugging face app host link
+https://huggingface.co/spaces/RiteshSingh524/Plant-leaf-image-disease-classifier
+
 ## How to Run
 ```In "Anconda Prompt" type below lines one by one
 pip install -r requirements.txt
